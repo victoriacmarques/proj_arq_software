@@ -58,8 +58,3 @@ Isso funciona desde que:
 - O arquivo principal se chame App.java.
 - Ele esteja no pacote padrão (sem declaração package no topo).
 - Não haja subpastas com outras classes.
-
-
-## Observações
-- Este repositório é público e será utilizado exclusivamente para exercícios de aula.
-- Trabalhos e exercícios avaliativos serão desenvolvidos em repositórios específicos do **GitHub Classroom**.
