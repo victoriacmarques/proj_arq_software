@@ -62,4 +62,4 @@ Isso funciona desde que:
 
 ## Observações
 - Este repositório é público e será utilizado exclusivamente para exercícios de aula.
-- Trabalhos e exercícios avaliativos serão desenvolvidos em repositórios específicos do **GitHub Classroom**, conforme indicado pelo professor.
+- Trabalhos e exercícios avaliativos serão desenvolvidos em repositórios específicos do **GitHub Classroom**.
