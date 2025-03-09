@@ -21,7 +21,7 @@ Para executar os projetos neste repositório:
 
 ```
 proj_arq_soft
- ┣ exercício01
+ ┣ exercicio01
  ┃ ┣ projeto1a
  ┃ ┃ ┣ arquivos do projeto
  ┃ ┃ ┗ README.md
@@ -29,7 +29,7 @@ proj_arq_soft
  ┃ ┃ ┣ arquivos do projeto
  ┃ ┃ ┗ README.md
  ┃ ┗ README.md (descrição geral do exercício)
- ┣ exercício02
+ ┣ exercicio02
  ┃ ┣ projeto2a
  ┃ ┣ projeto2b
  ┃ ┗ README.md
